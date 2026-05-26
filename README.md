@@ -4,12 +4,12 @@
 *DOMAIN* : MACHINE LEARNING
 *DURATION* : 6 WEEKS
 *MENTOR* : NEELA SANTHOSH KUMAR
-*DESCRIPTION* : THE MODEL IS BUILT USING THE FAMOUS IRIS DATASET FROM SCIKIT-LEARN 
+*DESCRIPTION* : THE MODEL IS BUILT USING THE TENSORFLOW
                 TECHNOLOGIES USED : PYTHON
                                     PANDAS
                                     NUMPY
                                     MATPLOTLIB
-                                    SCIKIT-LEARN
+                                    TENSORFLOW
                                     JUPYTER NOTEBOOK
                 THE MODEL PREDICTS THE ACCURACY SCORE,CLASSIFICATION REPORT,CONFUSION MATRIX
 *OUTPUT*
